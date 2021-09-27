@@ -56,7 +56,7 @@ Class type ids are the following:
 Scripts for calculating statistics for obtaining nucleotide-resolution coronavirus pathogenicity (COPA) scores are held in R scripts in the "stats" directory. Scores from the ML cross-valdiations performed above are pooled into a matrix where each row corresponds to a window and each column corresponds to a ML model and fold permutation. P-values, Q-values, and W-statistics are obtained by Wilcoxon rank sum test.
 
 
-### Principal compoenents analysis
+### Principal components analysis
 Scripts for dimensionality reduction of encoded whole coronavirus genomes are held in R scripts in the "pca_analysis" directory. "pca_pre.R" converts the MSA to cell-based representations in a CSV file, "pca_run.R" performs both one hot encoding and PCA, "pca_post.R" creates visualizations with metadata labelling of the results from the PCA analysis.
 
 
