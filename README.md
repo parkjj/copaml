@@ -1,6 +1,6 @@
 # COPAML
 
-This repository contains code accompanying the manuscript "Metaviromic identification of genetic hotspots of pathogenicity in SARS-CoV-2 using machine learning."
+This repository contains code accompanying the manuscript "Metaviromic identification of discriminative genomic features in SARS-CoV-2 using machine learning."
 
 ## Data acquisition
 Coronavirus genome sequences were obtained from the Virus Pathogen Database and Analysis Resource (ViPR) database (https://www.viprbrc.org/brc/home.spg?decorator=vipr) and aligned with MAFFT version 7 (https://mafft.cbrc.jp/alignment/server/). A compressed version of the multiple sequence alignment (MSA) used in this study is uploaded here.
